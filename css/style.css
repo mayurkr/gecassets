@@ -3,7 +3,8 @@ body {
   padding-left: 0;
   padding-top: 50px;
   background-image: url(../images/bg.jpg);
-  background-position: center;
+  background-position: left;
+  background-size: 200px;
   font-size: 16px;
   color: #333333;
   line-height: 24px;
@@ -28,16 +29,18 @@ div#wrap {
   border: 5px solid #cccccc;
   margin: auto;
   padding: 1em;
-  width: 60%;
+  width: 65%;
   background-color: #cccccc;
   font-family: Ebrima;
 }
 div#header {
-  padding: 3.5em;
+  padding: 6.5em;
   color: #ffffff;
   background-color: #666666;
   margin-bottom: 0.5em;
-  background-image: url(../images/logo.png);
+  background-image: url(../images/header.jpg);
+   background-position: center;
+   background-size: 890px;
 }
 div#header h1 {
   margin: 0;
@@ -57,17 +60,17 @@ div#nav {
   text-align: center;
   margin-bottom: 0.5em;
   background-color: #001A4C;
-  float: right;
+  float: left;
   display: block;
 }
 div#nav ul {
-  margin: 0;
-  padding-top: 5px;
+  margin: 0 0 0 0;
+  padding-top: 3px;
   padding-bottom: 5px;
   text-align: center;
 }
 div#nav li {
-  margin: 0 0.5em 0em 0em;
+  margin: 0em 0.5em 0em 0em;
   padding: 0em;
   display: inline;
 }
@@ -107,7 +110,7 @@ div#footer {
   background-color: silver;
   text-align: center;
   margin-right: auto;
-  width: 60%;
+  width: 65%;
   margin-left: auto;
   margin-top: 0.5em;
   font-family: Ebrima;
