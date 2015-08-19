@@ -1,15 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
-    <meta name="description" content="Official Website for GEC ETC Dept. ASSETS Council" />
-    <meta name="keywords" content="gec, Goa Engineering College, Goa, ASSETS, gec etc, engineering" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <meta content="Official Website for GEC ETC Dept. ASSETS Council" name="description" />
+    <meta content="gec, Goa Engineering College, Goa, ASSETS, gec etc, engineering"
+      name="keywords" />
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
     <title>Welcome || GEC Assets 2015</title>
   </head>
   <body>
     <div id="wrap">
-      <div id="header"> </div>
+      <div id="header">
+      </div>
       <div id="nav">
         <ul>
           <li> <a href="index.html">Home</a> </li>
@@ -17,11 +19,12 @@
           <li> <a href="sponsors.html">Sponsors</a> </li>
           <li> <a href="events.html">Events</a> </li>
           <li> <a href="clubs.html">Clubs</a> </li>
-          <li> <a href="gallery.html">Gallery</a></li>
-          <li> <a href="contact.html">ContactUs</a></li>
+          <li> <a href="gallery.html">Gallery</a> </li>
+          <li> <a href="contact.html">Contact Us</a> </li>
         </ul>
       </div>
-      <div id="content"> </div>
+      <div id="content">
+      </div>
       <br />
       <h3 style="text-align: center;">Sponsors</h3>
       <p>Our Inauguration ceremony which is going to be held on 19th August 2015
@@ -40,7 +43,8 @@
           </span></li>
       </ul>
     </div>
-    <div style="text-align: center;" id="footer"> Designed by <a href="https://mayur.xyz">Mayur</a>
-      &amp; Feroz<span style="text-decoration: underline;"> </span></div>
+    <div id="footer" style="text-align: center;">
+      Designed by <a href="https://mayur.xyz">Mayur</a> &amp; Feroz<span style="text-decoration: underline;">
+      </span></div>
   </body>
 </html>
